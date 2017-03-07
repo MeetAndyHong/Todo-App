@@ -2,7 +2,7 @@
 
 This is a todo-app, you can set the event you want to do and change the status of the event.
 
-##How to run it
+## How to run it
 
 1. use npm install
 2. open mongod and mongo
